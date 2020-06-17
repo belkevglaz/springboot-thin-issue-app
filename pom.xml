@@ -27,7 +27,7 @@
 
 		<spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
 		<spring-security-oauth2.version>2.3.3.RELEASE</spring-security-oauth2.version>
-		<thin-launcher.version>1.0.24.RELEASE</thin-launcher.version>
+		<thin-launcher.version>1.0.25.RELEASE</thin-launcher.version>
 
 	</properties>
 
